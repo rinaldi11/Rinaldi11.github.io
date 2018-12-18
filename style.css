@@ -1,5 +1,5 @@
 body {
-    background-size: 195vh;
+    background-size: 205vh;
     background-image: url("background.jpeg");
     font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
 }
@@ -52,26 +52,3 @@ a{
 
 a:hover{text-decoration:underline}
 .fa{margin:0 10px;}
-
-@media screen and (max-width: 780px) {
-	
-	.header, 
-	.footer{
-		text-align: center;
-	}
-	.left {
-		width: auto;
-		float: none;
-	}
-	
-	.middle {
-		width: auto;
-		float: none;
-	}
-	
-	.right {
-		width: auto;
-		float: none;
-	}
-
-}
